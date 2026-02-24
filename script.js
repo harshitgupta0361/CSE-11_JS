@@ -34,9 +34,9 @@ console.log(sayHello);
 //SYMBOLS
 const sym1 =Symbol(4);
 console.log(sym1);
-const sym2 =Symbol(4);
-console.log(sym2);
-if(sym1==sym2)
+const sym3 =Symbol(4);
+console.log(sym3);
+if(sym1==sym3)
 {
     console.log("true");
 }
