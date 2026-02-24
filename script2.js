@@ -1,6 +1,6 @@
 //Largest of 3 nummbers
 let x=2; let y=3; let z=1;
-let largrest=((x>y)?((x>y)?(x):(z)):((y>z)?(y):(z)));
+let largrest=((x>y)?((x>z)?(x):(z)):((y>z)?(y):(z)));
 document.write(largrest + "<br/>");
 
 //Loop
