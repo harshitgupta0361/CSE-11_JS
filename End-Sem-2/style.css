@@ -1,0 +1,21 @@
+body{
+    background-color: #f0f0f0;
+    font-family: Times New Roman, Times, serif;
+    place-items: center;
+}
+.converter{
+    background-color: #add4fb;
+    padding: 15px;
+    border-radius: 10px;
+    width: 600px;
+    place-items: center;    
+    text-align: center;
+}
+input{
+    border-radius: 3px;
+    padding: 5px 20px;
+    align-items: center;        
+}
+button{
+    padding: 5px 20px;
+}
